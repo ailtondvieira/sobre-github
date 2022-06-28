@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Dashboard',
+          'Dashboarda',
           style: TextStyle(color: Colors.black),
         ),
         centerTitle: true,
